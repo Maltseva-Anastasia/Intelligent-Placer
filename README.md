@@ -1,6 +1,5 @@
 # Intelligent Placer
 <p>На вход алгоритма подаётся фотография одного или нескольких предметов, расположенных на светлой горизонтальной поверхности, и многоугольника, нарисованного чёрным маркером на белом листе бумаги А4. Требуется программно определить, можно ли одновременно расположить данные предметы на плоскости так, чтобы они разметились в многоугольнике, или нет.</p>
-__________________________________
 <h5>Требования к входным данным:</h5>
 <ul>
 <li>Предметы:
@@ -40,6 +39,19 @@ __________________________________
    <li>Искусственный источник света (лампа) располагается под прямым углом к светлой горизонтальной поверхности;</li> 
   </ol>
 </ul>
-__________________________________
 <h5>Требования к выходным данным:</h5>
 Ответ True (Да), если возможно разместить предметы в многоугольнике, или False (Нет), если это невозможно. При этом при размещении предметов в многоугольнике нельзя, чтобы они перекрывали друг друга.
+
+__________________________________
+<h5>Фотографии предметов и светлой горизонтальной поверхности:</h5>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Тушь.jpg" alt="Тушь"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Тональник.jpg" alt="Тональник"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Расчёска.jpg" alt="Расчёска"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Маркер.jpg" alt="Маркер"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Кисть.jpg" alt="Кисть"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Зажигалка.jpg" alt="Зажигалка"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Ножницы.jpg" alt="Ножницы"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Бальзам.jpg" alt="Бальзам"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Ручка.jpg" alt="Ручка"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Чай.jpg" alt="Чай"/>
+<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Поверхность.jpg" alt="Поверхность"/>
