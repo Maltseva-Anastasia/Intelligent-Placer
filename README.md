@@ -17,13 +17,13 @@
    <ol>
 	 <li>Многоугольник нарисован ярким чёрным маркером в пределах листа А4;</li>
    <li>Максимальное количество вершин многоугольника равно 6;</li> 
-   <li>Многоугольник выпуклый;</li>
+   <li>Многоугольник выпуклый.</li>
    </ol>
 </li>
 <li>Камера:
    <ol>
 	 <li>Камера располагается на высоте 35 см;</li> 
-	 <li>Камера располагается под прямым углом к светлой горизонтальной поверхности;</li>
+	 <li>Камера располагается под прямым углом к светлой горизонтальной поверхности.</li>
    </ol>
 </li>
 <li>Изображение:
@@ -44,14 +44,14 @@
 
 __________________________________
 <h5>Фотографии предметов и светлой горизонтальной поверхности:</h5>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Тушь.jpg" alt="Тушь"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Тональник.jpg" alt="Тональник"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Расчёска.jpg" alt="Расчёска"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Маркер.jpg" alt="Маркер"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Кисть.jpg" alt="Кисть"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Зажигалка.jpg" alt="Зажигалка"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Ножницы.jpg" alt="Ножницы"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Бальзам.jpg" alt="Бальзам"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Ручка.jpg" alt="Ручка"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Чай.jpg" alt="Чай"/>
-<img src="file:///C:/Users/naste/Documents/Intelligent-Placer/Поверхность.jpg" alt="Поверхность"/>
+<a href="https://ibb.co/QJsb9WB"><img src="https://i.ibb.co/NFwVx0h/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/bbYWh20"><img src="https://i.ibb.co/dmXW9LT/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/92P3x5P"><img src="https://i.ibb.co/bLtR49t/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/Yf8wvGR"><img src="https://i.ibb.co/VMD5X8j/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/JtxtGwB"><img src="https://i.ibb.co/F3s3yLx/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/7NQ4Zx0"><img src="https://i.ibb.co/4g2dXw0/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/Xj9DJbX"><img src="https://i.ibb.co/ydDpsX0/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/NYxnmp8"><img src="https://i.ibb.co/ys0BY5w/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/B6Yqpy4"><img src="https://i.ibb.co/JpS51vx/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/TkvgbnT"><img src="https://i.ibb.co/Ms2CGjh/image.jpg" alt="image" border="0"></a>
+<a href="https://ibb.co/TkT6tXh"><img src="https://i.ibb.co/7XzPKcy/image.jpg" alt="image" border="0"></a>
